@@ -59,3 +59,5 @@ Telerik ( justmok)
 https://docs.telerik.com/devtools/justmock/basic-usage/arrange-act-assert
 
 
+
+https://app.diagrams.net/#HMarcSyndrome%2FObjectif-du-jour-ARC-EF%2Fmain%2FSuivi%20MEP.drawio
