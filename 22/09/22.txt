@@ -41,7 +41,7 @@ becall : 4min
 ordercommunication : 30 min (quelques manip a faire )
 venise : 3 min
 bridge : manuel ( long ) 3h
-atlas : 
+atlas : ??
 telephony3.3 :(manuel)
 
 
