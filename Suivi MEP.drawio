@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T13:16:28.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="gpTe_MYQ1odHEpjuWXUW" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T13:35:24.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Z33zZB_8xmSnIeDSHMoa" version="21.8.0" type="github">
   <diagram name="Page-1" id="7k1aj2y8sR3ZM2Jb246o">
-    <mxGraphModel dx="4412" dy="2984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4924" dy="3243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="870" y="80" width="480" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="R8f2JgNvHEQ_gIDhfDC0-46" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=1;shadow=1;fillColor=#8000ff;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="2200" y="80" width="580" height="840" as="geometry" />
+          <mxGeometry x="2200" y="250" width="790" height="580" as="geometry" />
         </mxCell>
         <mxCell id="R8f2JgNvHEQ_gIDhfDC0-31" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=1;shadow=1;fillColor=#8000ff;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="150" y="-120" width="660" height="1240" as="geometry" />
@@ -177,7 +177,7 @@
           <mxGeometry x="930" y="800" width="355" height="170" as="geometry" />
         </mxCell>
         <mxCell id="R8f2JgNvHEQ_gIDhfDC0-45" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Communications&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 30px;&quot;&gt;(mails aux différents secteurs)&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2271.25" y="100" width="437.5" height="140" as="geometry" />
+          <mxGeometry x="2360" y="260" width="437.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="R8f2JgNvHEQ_gIDhfDC0-47" value="" style="endArrow=classic;html=1;rounded=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;shadow=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="R8f2JgNvHEQ_gIDhfDC0-34" target="R8f2JgNvHEQ_gIDhfDC0-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -187,10 +187,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R8f2JgNvHEQ_gIDhfDC0-49" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#999999;shadow=1;glass=1;" parent="1" vertex="1">
-          <mxGeometry x="2207.5" y="345" width="570" height="543.7" as="geometry" />
+          <mxGeometry x="2421.22" y="239.73" width="354.24" height="755.4" as="geometry" />
         </mxCell>
-        <mxCell id="R8f2JgNvHEQ_gIDhfDC0-50" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;?????&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2427.5" y="557.5" width="130" height="100" as="geometry" />
+        <mxCell id="R8f2JgNvHEQ_gIDhfDC0-50" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;EVERY_Sauf_Clubs &amp;lt;&lt;a href=&quot;mailto:EVERY_Sauf_Clubs@arceurope.fr&quot;&gt;EVERY_Sauf_Clubs@arceurope.fr&lt;/a&gt;&amp;gt;;&lt;br&gt;ANWB_SUP_ALL &amp;lt;&lt;a href=&quot;mailto:ANWB_SUP_ALL@arceurope.fr&quot;&gt;ANWB_SUP_ALL@arceurope.fr&lt;/a&gt;&amp;gt;;&lt;br&gt;ADAC_SUP_ALL &amp;lt;&lt;a href=&quot;mailto:ADAC_SUP_ALL@arceurope.fr&quot;&gt;ADAC_SUP_ALL@arceurope.fr&lt;/a&gt;&amp;gt;;&lt;br&gt;AA_SUP_ALL &amp;lt;&lt;a href=&quot;mailto:AA_SUP_ALL@arceurope.fr&quot;&gt;AA_SUP_ALL@arceurope.fr&lt;/a&gt;&amp;gt;;&lt;br&gt;Amedro Valdo &amp;lt;&lt;a href=&quot;mailto:amedrov@arceurope.fr&quot;&gt;amedrov@arceurope.fr&lt;/a&gt;&amp;gt;;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;devops@arceurope.com&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="2230" y="483.74" width="740" height="300" as="geometry" />
         </mxCell>
         <mxCell id="D4PAs6iwr3IipX_CCxTV-2" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#8c0000&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Questions &lt;/font&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;:&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#8c0000&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Coupure E call: combien de temps ?&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#8c0000&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;OrderCommunication c&#39;est quoi ? c&#39;est qui ? Comment on le met a jour?&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#8c0000&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Communication une fois la MEP finie : qui prévenir ?&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="-300" width="1155" height="160" as="geometry" />
