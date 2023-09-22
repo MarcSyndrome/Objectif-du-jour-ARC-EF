@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T10:28:29.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="dyr-wHPo1b0s46z9AyGf" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T10:29:30.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="q8wf79yMNDTiwtUVxDXW" version="21.7.2" type="github">
   <diagram name="Page-1" id="7k1aj2y8sR3ZM2Jb246o">
     <mxGraphModel dx="3695" dy="2531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wenwSTG3TXSl4FGpa-59-11" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Telephony 3.3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#646c00;sketch=1;curveFitting=1;jiggle=2;shadow=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-610" y="540" width="170" height="100" as="geometry" />
+          <mxGeometry x="-630.71" y="585" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wenwSTG3TXSl4FGpa-59-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=-0.01;exitY=0.884;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;strokeWidth=5;exitPerimeter=0;" parent="1" source="wenwSTG3TXSl4FGpa-59-3" target="wenwSTG3TXSl4FGpa-59-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wenwSTG3TXSl4FGpa-59-14" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Venise&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#646c00;sketch=1;curveFitting=1;jiggle=2;shadow=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="380" width="170" height="100" as="geometry" />
+          <mxGeometry x="-610.71" y="392.5" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wenwSTG3TXSl4FGpa-59-17" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;gradientColor=#ff0000;fillColor=#ffff80;gradientDirection=east;sketch=1;curveFitting=1;jiggle=2;shadow=0;strokeWidth=2;strokeColor=#000040;" parent="1" vertex="1">
           <mxGeometry x="162.81" y="520" width="295" height="170" as="geometry" />
