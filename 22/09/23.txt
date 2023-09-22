@@ -1,0 +1,61 @@
+
+	- Le but étant de recuperer une donnée d'un point a ( rempli par un chargé ? ) et l'emmener a un point B
+	- Comment on la joue ?	ca depend si bridge n'est pas deployé en prod alors, probleme seulement si.
+	Mais apparement ils sont dans les clous, ca devrait aller de leur coté.
+
+	- Quels sont les noms des champs ? coté calypso, coté cactus => pas de reponse pour le moment (  )
+
+	sinon il faut definir un champ dans cactus, pas de nom pour le moment,
+	le chargé devra faire une double saisie, ils ne pourront pas remplir le champ atlas dans cactus prod / incident management
+	pour mettre le numero du champ atlas pour le copier dans le champ atlas reference pour cet incident la
+
+	idée de champ reference ? => "Ref. autre assistance" ? champ ref 1 dans la table incident ( partir la dessus de base )
+	incident.atlas reference
+
+	- est ce que ca sera instant genre rempli dans un formulaire et envoyé instant a 2 endroits ? 
+	ou un batch qui tourne et cherche dans toute la BDD et tourne toutes les 5 min?        => on partirai sur une requete sql qui bouclerai toute les nuits pour mettre a jour
+	- Quelle frequence ?          =>    on partirai sur une requete sql qui bouclerai toute les nuits pour mettre a jour
+
+	- comment on le teste ? on test juste le dossier en remplissant le champ avec une donnée quelquonque, et on verifie si la donnée a bien été transferée
+
+
+	4 => Migration ateliers:   =====> Aurelien
+		- ateliers ciblés, pas les groupes (message migré no soucis, compte regroupement arg, notif?) date butoire 2 octobre
+		- impacts ? 
+		- Possibilité de migré tout de meme les groupements ?
+		- combien de temps pour pouvoir livrer ca ? ( réponse aurelien plus de 15jours ... delai avant date butoire: 7 jours ...)
+
+	5 => Finir MEP bridge/cactus   =====> Damien, Jihene
+	pas tester mais sur REC, le draft1 TFS dans cactus git, si envoie alors mise a jour des dossiers ajoutés hier
+	REC2 implications ?
+	applications a MAJ? cactus, bridge,  atlas,  venise ?, telephony3.3 ? becall, ordercommunication
+
+
+Couper e call, cb de temps ca va durer ?
+communication mise a jour au personne concernées ( qui ? )
+valider et communiquer la mep
+
+cb de temps va durer la MAJ ?
+cactus : 20min
+becall : 4min
+ordercommunication : 30 min (quelques manip a faire )
+venise : 3 min
+bridge : manuel ( long ) 3h
+atlas : 
+telephony3.3 :(manuel)
+
+
+
+
+
+
+
+Faire en sorte que l'api soit deployée partout
+Branches DEV + branche release
+test unitaires 
+CI / CD
+
+Telerik ( justmok)
+https://docs.telerik.com/devtools/justmock/basic-usage/arrange-act-assert
+
+
