@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T10:11:09.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="dXtuRCdqLJ-Qaektmu2F" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T10:11:18.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="c4cy6-x06FOI_mcOY2os" version="21.8.0" type="github">
   <diagram name="Page-1" id="7k1aj2y8sR3ZM2Jb246o">
     <mxGraphModel dx="4014" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
           <mxGeometry x="2115" y="230" width="640" height="241.17" as="geometry" />
         </mxCell>
         <mxCell id="D4PAs6iwr3IipX_CCxTV-2" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#8c0000&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Détails&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#8c0000&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;OrderCommunication, mettre a&amp;nbsp; jour pour le cas ou&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="532.5" y="1240" width="1155" height="210" as="geometry" />
+          <mxGeometry x="532.5" y="1180" width="1155" height="210" as="geometry" />
         </mxCell>
         <mxCell id="D4PAs6iwr3IipX_CCxTV-3" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;&amp;nbsp;Bridge&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#646c00;sketch=1;curveFitting=1;jiggle=2;shadow=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-410.71000000000004" y="354.64" width="170" height="100" as="geometry" />
