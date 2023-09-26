@@ -1,0 +1,7 @@
+continuer archivage,
+code review avec illyes ( nouvel alternant ), faites
+positionner sur le serveur toute la partie compilation, 
+fichiers configs et avant la config pour qu'il ne reste plus qu'a copier coller pour gagner du temps.
+pas fini , order communication fait, bridge ?
+
+

@@ -1,4 +1,4 @@
 continuer archivage,
-code review avec illyes ( nouveau alternant )
+code review avec illyes ( nouvel alternant )
 positionner sur le serveur toute la partie compilation, 
 fichiers configs et avant la config pour qu'il ne reste plus qu'a copier coller pour gagner du temps.
